@@ -1,0 +1,2 @@
+python-telegram-bot
+imageai~=2.1.6
